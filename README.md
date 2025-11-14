@@ -439,9 +439,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/mayowaaloko)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/alokomayowa)
+**Mayowa Daniel**
+- GitHub: (https://github.com/mayowaaloko)
+- LinkedIn: (https://linkedin.com/in/alokomayowa)
 - Email: mayowaaloko@gmail.com
 
 ---
